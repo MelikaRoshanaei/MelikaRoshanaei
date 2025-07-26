@@ -1,7 +1,7 @@
 ## Melika Roshanaei
 CE Student | Full Stack Developer
 
-Self-taught developer, refusing to leave at 4 a.m. until my code is cleaner than ever before, fueled by nothing but ambition and coffee!😉 
+Self-taught developer, refusing to leave at 4 a.m. until my code is cleaner than ever before, fueled by nothing but ambition and coffee!😉  
 I started my journey with frontend development — now diving deep into backend technologies while still sharpening my frontend skills along the way.
 
 
